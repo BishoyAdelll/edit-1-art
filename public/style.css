@@ -1,0 +1,247 @@
+body{
+    background-color: #ccc;
+
+
+
+}
+.bluecolor{
+    color: #15428b;
+    width:45%;
+    background-color: rgb(206, 217, 231);
+    font:bold 11px tahoma,arial,verdana,sans-serif;
+    border-radius: 2px;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    box-shadow: 0 0px 7px 0 rgba(0,0,0,0.5);
+
+}
+.small{
+
+    width:96%;
+    background-color: rgb(223, 232, 246);
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 13px;
+    color:black;
+    border-radius: 2px;
+    margin-top: 2%;
+    box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.5);
+    padding-bottom: 6%;
+    padding-top: 2%;
+
+
+}
+.blackcolor{
+    color:black;
+    margin-top: 20%;
+    margin-left: 9%;
+    font-size: 19.2px;
+    padding-bottom: 5%;
+}
+.blackcolor u a{
+    text-decoration: none;
+    color: black;
+}
+.foot{
+    background-color: rgb(121,85,77);
+    color:white;
+    text-align: center;
+   height: 100px;
+    padding-top:2%;
+}
+label{
+    width:100%;
+}
+.buttonnn{
+    margin-left: 80%;
+    width:20%;
+    margin-top:3%;
+
+}
+@media(max-width:767px){
+    #kero{
+        display: none;
+    }
+}
+
+/*-----------------homepage-----------*/
+.hback{
+    width:100%;
+    background-color: rgb(42,90,156);
+    overflow: hidden;
+    position: relative;
+}
+
+
+.firstdiv{
+    margin-left: 1.5%;
+    margin-top: 1%;
+    font: normal 10px tahoma,arial,verdana,sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 10px;
+    font-family: tahoma, arial, verdana, sans-serif;
+    text-align: center;
+}
+.one{
+    color:white;
+}
+.one:hover{
+    color:white;
+}
+
+.be{
+    color: white;
+    margin-left: 1.5%;
+    margin-right: 1%;
+    font: normal 10px tahoma,arial,verdana,sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 10px;
+    font-family: tahoma, arial, verdana, sans-serif;
+    text-align: center;
+
+
+}
+.be:hover{
+    color:white;
+}
+.tw{
+    color: white;
+    font: normal 10px tahoma,arial,verdana,sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 10px;
+    font-family: tahoma, arial, verdana, sans-serif;
+    text-align: center;
+}
+.tw:hover{
+    color:white;
+}
+.bigdiv{
+    height:45px;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.btn2{
+    background-color: white;
+    width: 136px;
+    border-radius: 11px;
+    margin-left: 1%;
+    height:45px;
+
+}
+.myModel{
+    display: block;
+    position: fixed;
+    z-index:1;
+    left: 0;
+    top: 0;
+    width:100%;
+    height: 93.7%;
+    background-color: #ccc;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+}
+.testsmall{
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-direction: row-reverse; /* Safari 6.1+ */
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 1%;
+    width: 100%;
+    height: 116%;
+    background-color: #313131;
+
+}
+.btn3{
+    width:36px;
+    height: 27px;
+    padding: 0%;
+    margin-right: .2%;
+    margin-left: .3%;
+    margin-top: .2%;
+    background-color: transparent;
+    border-radius: 6px;
+    color: white;
+    box-shadow: 0 0px 7px 0 rgba(255, 255, 255, 0.5);
+}
+/*---test popup-------*/
+
+.model{
+    display: block;
+    position: fixed;
+    z-index:1;
+    left: 0;
+    top: 0;
+    width:100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+
+}
+.model-content{
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+
+}
+.close{
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,.close:focus{
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.tablestyle{
+    color: #005cbf;
+}
+
+/*---------------------------finalupdates-------------------*/
+
+input{
+    border-radius: 4px!important;
+}
+*{
+    font-family: 'Cairo', sans-serif;
+}
+
+.ta{
+    border:2px solid #b3b7bb;
+}
+iframe{
+    padding:20px;
+        height: 90vh !important;
+}
+
+#heloem {
+    margin-left: 12px;
+}
+

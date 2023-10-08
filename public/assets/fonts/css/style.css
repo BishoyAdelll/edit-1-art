@@ -1,0 +1,944 @@
+body{
+
+    margin:0px;
+    padding:0px;
+}
+
+header{
+    background-color: #fd6d64;
+    height:100px;
+
+}
+header div{
+    width:100%;
+    background-color: #fd6d64;
+    height:650px;
+}
+
+.container{
+    height: 500px;
+    max-width:1140px;
+    margin:auto;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.flo{
+    float:left;
+}
+header div div.container ul{
+
+margin-left:427px;
+
+}
+header div div.container ul li{
+    list-style-type: none;
+    display: inline-block;
+    color:white;
+    padding:12px 15px;
+
+}
+section h5{
+    color:white;
+    font-size:1.7em;
+    margin-top:80px;
+}
+section h1{
+    color:white;
+    font-size: 3em;
+    margin-top:1px;
+
+}
+section h6{
+    color:white;
+    font-size:1.1em;
+}
+section button.btn1{
+    color:#fd6d64;
+    background-color: white;
+    border:1px solid white;
+    width:198px;
+    height:50px;
+    border-radius: 100px;
+    margin-right:35px;
+}
+section button.btn1:hover{
+    color:white;
+    background-color: #fd6d64;
+    transition: all 0.5s ease-in-out;
+}
+section button.btn2{
+    color:white;
+    background-color: #fd6d64;
+    border:1px solid white;
+    width:198px;
+    height:50px;
+    border-radius: 100px;
+}
+section button.btn2:hover{
+    color:#fd6d64;
+    background-color: white;
+    transition: all 0.5s ease-in-out;
+}
+section.container img{
+    width:337px;
+    height: 681px ;
+    margin-left: 120px
+}
+/*part2------------------------------------*/
+.part2{
+    margin-top:232px;
+}
+
+section div img{
+    width:337px;
+    height: 681px ;
+    float: left;
+    margin-left: 122px;
+
+}
+section.part2 div h5{
+    color:#fd6d64;
+    display: inline-block;
+    margin-left: 113px;
+    font-size: 1em;
+}
+section.part2 div h2{
+    color:darkslategrey;
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 1.5em;
+}
+section.part2 div h6{
+    color:darkgray;
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 0.99em;
+    line-height: 30px;
+}
+section.part2 div.container div button.btn21{
+    border-radius: 25px;
+    background-color: white;
+    width:90px;
+    height: 90px;
+    background-image: url("../images/m1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border:hidden;
+    margin-right: 3px;
+    margin-left: 20px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+section.part2 div.container div button.btn21:hover{
+    background-color: #fd6d64;
+    transition: all 0.5s ease-in-out;
+}
+
+section.part2 div.container div button.btn22{
+    border-radius: 25px;
+    background-color: white;
+    width:90px;
+    height: 90px;
+    background-image: url("../images/m2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border:hidden;
+    margin-right: 3px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+
+
+}
+section.part2 div.container div button.btn22:hover{
+    background-color: #fd6d64;
+    transition: all 0.5s ease-in-out;
+}
+section.part2 div.container div button.btn23{
+    border-radius: 25px;
+    background-color: white;
+    width:90px;
+    height: 90px;
+    background-image: url("../images/m3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border:hidden;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+
+
+}
+section.part2 div.container div button.btn23:hover{
+    background-color: #fd6d64;
+    transition: all 0.5s ease-in-out;
+}
+
+section.part2 div.container button {
+    color: white;
+    background-color: #fd6d64;
+    border: 1px solid white;
+    width: 198px;
+    height: 50px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+/*----------------------part3-------------------------*/
+
+.part3{
+    margin-top:232px;
+    height:243px;
+}
+
+section.part3 div.container img{
+    margin:auto;
+    width:48px;
+    height:48px;
+    margin-left: 548px;
+}
+section.part3 div.container h5{
+   /* font-size:1em;
+    margin-left: 535px;
+    color: #fd6d64;*/
+    font-size:1.4em;
+    margin-left: 519px;
+    color: #fd6d64;
+    display:inline-block;
+    padding-top:0px;
+    margin-top:20px;
+}
+section.part3 div.container h1{
+    /*color: gray;
+    font-size:1.8em;
+    margin-left: 467px;*/
+    color: black;
+    font-size:1.8em;
+    margin-left: 468px;
+    margin-top:-26px;
+
+}
+/*--------------------part4------------------*/
+.part4{
+
+}
+.marg{
+    margin-left:93px;
+}
+.shadow{
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5%;
+}
+section.part4 div.container div{
+    width: 316px;
+    height:200px;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 49px;
+    margin-right: 10px;
+
+}
+section.part4 div.container div h3{
+    margin-left: 5px;
+    display: block;
+    font-size:1.2em;
+    color:darkslategrey;
+}
+section.part4 div.container div p{
+    color: darkgray;
+    font-size:1em;
+    line-height: 20px;
+
+}
+section.part4 div.container div img{
+    margin-left: 130px;
+    width:48px;
+    height:48px;
+    display: block;
+    margin-top:7px;
+}
+/*------------------part5-----------*/
+.part5{
+
+}
+section.part5 div.container div{
+    float:left;
+}
+section.part5 div.container div h3 {
+    color: darkslategrey;
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 1.5em;
+    margin-top:180px;
+}
+section.part5 div.container div p{
+    color:darkgrey;
+    margin-left:37px;
+    line-height: 20px;
+
+}
+section.part5 div.container div button{
+    border-radius: 25px;
+    background-color: white;
+    width:80px;
+    height: 80px;
+    border:hidden;
+    margin-left: 50px;
+    font-size: 1em;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+    font-weight: bold;
+    word-spacing: 4px;
+    line-height: 24px;
+    margin-top:29px;
+    font-size:0.8em;
+
+}
+section.part5 div.container div button span {
+    margin-right: 3px;
+    margin-left: 3px;
+    font-size: 0.7em;
+    color: #fd6d64;
+    font-weight: bold;
+    font-size:0.8em;
+
+}
+
+section.part5 div.container div button:hover span{
+    color:white;
+}
+section.part5 div.container div button:hover{
+    background-color: #fd6d64;
+    color:white;
+}
+section.part5 div.container div button.down{
+    width:115px;
+    font-size:0.8em;
+    transition: all 0.5s ease-in-out;
+}
+section.part5 div.container div button.down span {
+    margin-right: 3px;
+    margin-left: 3px;
+    font-size: 0.7em;
+    color: #fd6d64;
+    font-weight: bold;
+    font-size:0.8em;
+
+}
+section.part5 div.container div button.down:hover span{
+    color:white;
+}
+section.part5 div.container img{
+    width:425px;
+    margin-left: 50px;
+}
+section.part5 div.container div button.learn{
+    color: white;
+    background-color: #fd6d64;
+    border: 1px solid white;
+    width: 198px;
+    height: 50px;
+    border-radius: 100px;
+    margin-left: 44px;
+    margin-top: 30px;
+}
+/*-----------------part6-----------------------*/
+
+.part6{
+    margin-top:232px;
+    height:243px;
+
+}
+section.part6 div.container img{
+    margin:auto;
+    width:48px;
+    height:48px;
+    margin-left: 548px;
+    margin-bottom: 18px;
+}
+section.part6 div.container h5{
+    font-size:1.4em;
+    margin-left: 505px;
+    color: #fd6d64;
+    display:inline;
+    padding-top:10px;
+}
+section.part6 div.container h1{
+    color: black;
+    font-size:1.8em;
+    margin-left: 453px;
+    margin-top:10px;
+}
+section.part6 div.container div.ho div.marg.shadow img{
+    margin:auto;
+    width:75px;
+    height:76px;
+    margin-left: 125px;
+    border:5px solid white;
+    border-radius: 50px;
+    box-shadow:0 0 10px rgba(0,0,0,0.3);
+    margin-top:27px;
+}
+
+section.part6 div.container div.ho div{
+    width: 360px;
+    height:400px;
+    float: left;
+    text-align: center;
+    margin-bottom: 49px;
+    margin-right:4px;
+    margin-left: 10px ;
+}
+section.part6 div.container div.ho div p{
+    display: inline-block;
+    line-height:37px;
+    font-size: 1.2em;
+    margin-top:0px;
+    color: darkgrey;
+}
+section.part6 div.container div.ho div h3{
+    display: inline-block;
+    margin-top:46px;
+    line-height:2px;
+    color:#fd6d64;
+}
+section.part6 div.container div.ho div h4{
+    display: inline-block;
+    margin-top:16px;
+    line-height:2px;
+    font-size: 1.1em;
+
+}
+/*----------------part7-----------------------------*/
+.part7{
+    margin-top:400px;
+
+}
+section.part7 div.container img{
+    margin:auto;
+    width:48px;
+    height:48px;
+    margin-left: 548px;
+    margin-bottom: 18px;
+}
+section.part7 div.container h5{
+    font-size:1.4em;
+    margin-left: 519px;
+    color: #fd6d64;
+    display:inline;
+    padding-top:10px;
+}
+section.part7 div.container h1{
+    color: black;
+    font-size:1.8em;
+    margin-left: 468px;
+    margin-top:10px;
+}
+
+section.part7 div.container div img{
+    width: 356px;
+    height: 681px;
+    margin:auto;
+    margin-right: 24px;
+}
+/*------------------part8-----------------------*/
+.part8{
+    margin-top:400px;
+
+}
+section.part8 div.container img.first{
+    margin:auto;
+    width:48px;
+    height:48px;
+    margin-left: 548px;
+    margin-bottom: 18px;
+}
+section.part8 div.container h5{
+    font-size:1.4em;
+    margin-left: 519px;
+    color: #fd6d64;
+    display:inline;
+    padding-top:10px;
+}
+section.part8 div.container h1{
+    color: black;
+    font-size:1.8em;
+    margin-left: 436px;
+    margin-top:10px;
+}
+/*
+.up{
+    margin:auto;
+    margin-right: 10px;
+    width:137px;
+    height:148px;
+    margin-left: 99px;
+    border:13px solid white;
+    border-radius: 127px;
+    box-shadow:0 0 10px rgba(0,0,0,0.3);
+    margin-top:27px;
+}
+
+.down{
+    margin:auto;
+    margin-right: 10px;
+    width:137px;
+    height:148px;
+    margin-left: 80px;
+    border:13px solid white;
+    border-radius: 127px;
+    box-shadow:0 0 10px rgba(0,0,0,0.3);
+    margin-top:89px;
+    float: left;
+}
+.photo{
+    color: black;
+    width: 25px;
+    height: 25px;
+}
+.ima{
+    width:137px;
+    height:148px;
+    margin-left: 0px;
+
+}*/
+section.part8 div.container div.circle div.down , section.part8 div.container div.circle div.up{
+    margin:auto;
+    margin-right: 10px;
+    width:137px;
+    height:148px;
+    margin-left: 80px;
+    border:13px solid white;
+    border-radius: 127px;
+    box-shadow:0 0 10px rgba(0,0,0,0.3);
+    margin-top:89px;
+    float: left;
+}
+section.part8 div.container div.circle div img {
+    width: 137px;
+    height: 148px;
+    margin-left: 0px;
+
+}
+section.part8 div.container div.circle div span{
+    color: black;
+    magin-top:5px;
+    margin-left:68px;
+    font-size: 1em;
+}
+section.part8 div.container div.circle div.down{
+    margin-top:142px;
+
+}
+.inside{
+margin-top: 15px;
+    margin-left: -43px;
+    text-align:center;
+    width:207px;
+
+}
+section.part8 div.container div.circle div.down div.inside h4,
+section.part8 div.container div.circle div.up div.inside h4{
+    color:black;
+    display:inline-block;
+    text-align: center;
+    margin-left:28px;
+    font-size: 1.111em;
+    margin:auto;
+    text-align: center;
+    text-transform: uppercase;
+    word-spacing: 2px;
+}
+section.part8 div.container div.circle div.down div.inside h6,
+section.part8 div.container div.circle div.up div.inside h6{
+    color:black;
+    display:inline-block;
+    text-align: center;
+    margin-left:15px;
+    margin-top: 10px;
+    font-size:1em;
+
+}
+section.part8 div.container div.circle div.down:hover span,
+section.part8 div.container div.circle div.down:hover div.inside h4,
+section.part8 div.container div.circle div.down:hover div.inside h6,
+section.part8 div.container div.circle div.up:hover span,
+section.part8 div.container div.circle div.up:hover div.inside h4,
+section.part8 div.container div.circle div.up:hover div.inside h6
+{
+    color:#fd6d64;
+    transition: all 0.5s ease-in-out;
+}
+
+/*-------------------part9-------------------------------*/
+.part9{
+    margin-top: 400px;
+}
+section.part9 div.container img.first{
+    margin:auto;
+    width:48px;
+    height:48px;
+    margin-left: 548px;
+    margin-bottom: 18px;
+}
+section.part9 div.container h5{
+    font-size:1.4em;
+    margin-left: 539px;
+    color: #fd6d64;
+    display:inline;
+    padding-top:10px;
+}
+section.part9 div.container h1{
+    color: black;
+    font-size:1.8em;
+    margin-left: 515px;
+    margin-top:10px;
+}
+section.part9 div.container div.ho div.shadow{
+    width: 351px;
+    height:632px;
+    float: left;
+    text-align: center;
+    margin-bottom: 49px;
+    margin-right: 18px;
+    margin-left: 10px ;
+    border-radius: 10%;
+
+
+
+}
+i{
+    font-size: 60px;
+    margin-top: 50px;
+    color: white;
+    border-color: white;
+
+}
+section.part9 div.container div.ho div.shadow div{
+    border-top-right-radius: 10%;
+    border-bottom-left-radius:0%;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius:0%;
+    height: 39%;
+    margin-left: 0px;
+    background-image: linear-gradient(#F66E54, #FF534B);
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: calc(18px + (26 - 18) * ((100vw - 300px) / (1920 - 300)));
+    margin-top: 0;
+    line-height: 2.1;
+    text-transform: capitalize;
+    font-family: sans-serif;
+
+}
+section.part9 div.container div.ho div.shadow h5{
+    margin-left: 0px;
+    color: #434345;
+    margin-bottom: 15px;
+    font-weight: 400;
+    line-height: 35px;
+    font-size: 1.25rem;
+    text-transform: capitalize;
+    font-family: sans-serif;
+
+
+}
+section.part9 div.container div.ho div.shadow span{
+    color: #ff253a;
+    font-size:5em;
+    font-family: sans-serif;
+}
+.bb{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 1em;
+    border:1.5px solid #ff253a !important ;
+    margin-left: 31px;
+    margin-top: 7px;
+    height:62px !important;
+    width:166px !important;
+
+}
+/*--------------------------part10-------------------*/
+.part10{
+    margin-top: 277px;
+}
+.firstph{
+    margin:auto;
+    width:48px;
+    height:48px;
+    margin-left: 548px;
+    margin-bottom: 18px;
+}
+section.part10 div.container h5{
+    font-size:1em;
+    margin-left: 528px;
+    color: #fd6d64;
+    display:inline;
+    padding-top:10px;
+    font-family: sans-serif;
+}
+section.part10 div.container h1{
+    color: black;
+    font-size:1.6em;
+    margin-left: 508px;
+    margin-top:10px;
+    font-family: sans-serif;
+}
+section.part10 div.container div i{
+    color:#0000005c;
+}
+section.part10 div.container div div{
+    color:#0000005c;
+    float:left;
+    margin-right: 47px;
+
+}
+section.part10 div.container div div span{
+    margin-bottom: 10px;
+    display: inline-block;
+    font-size: 1.45em;
+    margin-left: 5px;
+    font-family: sans-serif;
+}
+
+section.part10 div.container div.hi{
+    height: 50px;
+}
+section.part10 div.container div img{
+    width: 123.32px;
+    height: 35px;
+    margin-left:6px;
+    margin-right: 60px;
+    margin-top: 30px;
+    filter: grayscale(1);
+}
+section.part10 div.container div img:hover{
+    filter: grayscale(0);
+
+
+}
+/*----------------footer-----------------------*/
+
+.container2{
+    height: 510px;
+    max-width:100%;
+    margin:auto;
+    padding-top: 5px;
+    margin: ;
+
+}
+
+.fo{
+    background-image: url("../images/footer.png");
+    height: 100%;
+    width: 100%;
+    margin-top: -166px;
+}
+.ph{
+    width:736px;
+    height: 78px;
+    margin-left: 191px;
+    position:relative;
+}
+.ph2{
+    width: 691px;
+    height: 80px;
+    border:1px solid white;
+    border-radius: 100px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+    padding-left: 112px;
+    font-size: 1.1em;
+    margin-top: 21px;
+    margin-left: 97px;
+
+}
+::placeholder{
+    color: #fd6d64;
+    font-family: sans-serif;
+    font-size: calc(13px + (14 - 13) * ((100vw - 300px) / (1920 - 300)));
+    font-weight: 600;
+    letter-spacing: 1px;
+    opacity: 0.4;
+
+}
+.ph i{
+    color: #fd6d64;
+    position: absolute;
+    z-index: 999;
+    font-size: 2em;
+    top: 0px;
+    margin-left: 139px;
+
+}
+.ph button{
+    position: absolute;
+    background-color: #FF534B;
+    color:white;
+    border-radius: 100px;
+    height:62px;
+    width:166px;
+    top: 32px;
+    margin-left: 723px;
+    z-index: 999;
+    border:none;
+    font-size: calc(13px + (14 - 13) * ((100vw - 300px) / (1920 - 300)));
+    padding: 20px 30px;
+    letter-spacing: 0;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+footer div.container2 div div.first{
+    float:left;
+    margin-top: 94px;
+    margin-left: 87px;
+
+
+}
+footer div.container2 div div.sec{
+    float:left;
+    margin-top: 103px;
+    margin-left: 50px;
+
+
+}
+footer div.container2 div div.third{
+    float:left;
+    margin-top: 103px;
+    margin-left: 0px;
+
+
+}
+footer div.container2 div div.last{
+    float:left;
+    margin-top: 103px;
+    margin-left: 51px;
+
+
+}
+footer div.container2 div div{
+    float:left;
+    margin-top: 83px;
+    left: 0;
+
+
+}
+footer div.container2 div div.first p{
+    color:white;
+    margin-bottom: -3px;
+    font-weight: 500;
+    margin-top: 34px;
+    line-height: 1.8;
+    font-family:sans-serif;
+}
+footer div.container2 div div.first a ,
+footer div.container div div.first a i{
+    font-size: 0.8em;
+    text-decoration: none;
+    margin-right: 25px;
+
+}
+footer div.container2 div div.sec span{
+    font-weight: 600;
+    font-size: 1.08em;
+    color:white;
+    font-family:sans-serif;
+    letter-spacing: 1px;
+    margin-left: -256px;
+    display: inline-block;
+
+
+
+}
+footer div.container2 div div.sec button{
+    width:77px;
+    height: 41px;
+    background-color: #fd6d64;
+    color:white;
+    padding:auto;
+    border-radius: 5px;
+    border: 1px solid rgba(255,255,255,0.34);
+    margin-bottom:10px;
+    margin-right: 4px;
+
+}
+footer div.container2 div div.sec button span{
+    color:white;
+    opacity:0.8;
+    margin-right: -252px;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: normal;
+    font-family: 'Poppins', sans-serif;
+}
+footer div.container2 div div.sec button:hover span{
+    color: white;
+    opacity:1;
+
+}
+footer div.container2 div div.third span{
+    font-weight: 600;
+    font-size: 1.08em;
+    color:white;
+    font-family:sans-serif;
+    letter-spacing: 1px;
+    margin-left: 39px;
+}
+footer div.container2 div div.third ul li,
+footer div.container2 div div.third ul li a{
+    list-style-type: none;
+    color:white;
+    font-family: sans-serif;
+    margin-bottom: -45px;
+    margin-top:61px;
+    font-size: 1em;
+    opacity:0.9;
+    line-height: 1.3;
+    text-decoration: none;
+}
+
+footer div.container2 div div.last span{
+    font-weight: 600;
+    font-size: 1.08em;
+    color:white;
+    font-family:sans-serif;
+    letter-spacing: 1px;
+
+}
+footer div.container2 div div.last ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    color:white;
+    margin-top: 10px;
+}
+footer div.container2 div div.last ul li span,
+footer div.container2 div div.last ul li p{
+    display:inline-block;
+    font-size:0.8em;
+    font-family:sans-serif;
+    color:white;
+    margin-left: 23px;
+    margin-top: 51px;
+}
+
+footer div.container2 div div.last ul li i{
+    font-size: 1em;
+    color: white;
+
+}
+footer div.fin{
+    background-color: #f0665f;
+    text-align: center;
+    height:67px;
+    margin-top: -32px;
+    padding-bottom: 10px;
+}
+footer div.fin h6{
+    padding: 0;
+    color:white;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+    font-size: calc(13px + (14 - 13) * ((100vw - 300px) / (1920 - 300)));
+    padding-top: 30px;
+}
